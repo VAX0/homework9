@@ -1,0 +1,48 @@
+@media (max-width: 656px) {
+   /* header  */
+    header {
+    padding-inline: 14px;
+    }
+.burger{
+    display: block;
+}
+header div nav{
+    display: none;
+}
+/* section1 */
+.section2_cont {
+    padding-inline: 14px;
+    }
+.section2_cont h2{
+    font-size: 32px;
+    line-height: 40px;
+}
+.section2_cont p{
+    font-size: 14px;
+    line-height: 22px;
+}
+
+/* section2  */
+.card_cont{
+    flex-wrap: wrap;
+}
+h3{
+    font-size: 24px;
+    line-height: 36px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.section2{
+    padding-inline: 14px;
+}
+/* section3  */
+.section3 {
+    padding-inline: 14px;
+}
+.sect3_div2{
+    flex-wrap: wrap;
+}
+  }
+
+  
